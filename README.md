@@ -2,7 +2,7 @@
 
 🚀 Flutter Developer
 
-👨‍💻 I specialize in building responsive, user-friendly mobile applications with **Flutter** and **Dart**. I'm passionate about solving challenging problems and continuously improving my skills.
+👨‍💻 I build mobile applications using Flutter and Dart. I enjoy creating clean, scalable, and user-friendly apps. 
 
 ### 🌐 Find me around the web:
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://alihamza0173.github.io/)
@@ -11,10 +11,9 @@
 
 ### 💼 Skills:
 - **Mobile App Development**: Flutter, Dart
-- **State Management**: Riverpod, Provider
+- **State Management**: Bloc, Riverpod
 - **APIs & Backend**: RESTful APIs, Firebase
-- **Tools & Technologies**: Git, Postman, Android Studio, VS Code
-- **Advanced Features**: Push Notifications, Deep Linking, In-App Purchases
+- **Tools**: Git, Postman, Android Studio, VS Code
 
 ### 📊 GitHub Stats:
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between; align-items: center;">
@@ -23,4 +22,4 @@
 </div>
 
 ### 📫 Let’s Connect!
-Feel free to reach out for collaboration, mentoring, or discussing ideas!
+Feel free to reach out for collaboration or discussions!
